@@ -1,0 +1,1 @@
+console.log("Manda a decir mamá que dejes de inspeccionar el codigo")
